@@ -1,0 +1,19 @@
+.container{
+    background-color: gray;
+    display: flex;    
+    flex-direction: row;
+    width: 30%;
+    height: 30%;
+}
+
+.adao{
+    background-color: gray;
+    
+}
+.love{
+    width: 50%;
+    height: 50%; 
+}
+.foto{
+    background-color: white;
+}
